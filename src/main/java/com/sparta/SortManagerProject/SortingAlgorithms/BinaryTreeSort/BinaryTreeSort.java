@@ -1,4 +1,4 @@
-package com.sparta.SortManagerProject.SortingAlgorithms;
+package com.sparta.SortManagerProject.SortingAlgorithms.BinaryTreeSort;
 
 public class BinaryTreeSort {
 
