@@ -1,6 +1,6 @@
 package com.sparta.SortManagerProject.Main;
 
-import com.sparta.SortManagerProject.SortingAlgorithms.BinaryTreeSort;
+import com.sparta.SortManagerProject.SortingAlgorithms.BinaryTreeSort.BinaryTreeSort;
 
 
 public class Main {
