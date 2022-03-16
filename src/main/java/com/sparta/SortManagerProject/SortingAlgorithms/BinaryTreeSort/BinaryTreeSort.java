@@ -1,7 +1,9 @@
 package com.sparta.SortManagerProject.SortingAlgorithms.BinaryTreeSort;
 
-public class BinaryTreeSort {
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
+public class BinaryTreeSort {
     private final Node rootNode;
 
     public BinaryTreeSort(final int element) {
@@ -55,6 +57,7 @@ public class BinaryTreeSort {
             }
         }
     }
-
-
+    private static int[] sortTree(Node node, int counter){
+    
+    }
 }
